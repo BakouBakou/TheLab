@@ -1,0 +1,17 @@
+/.idea/.gitignore
+/target/lib/checker-qual-3.12.0.jar
+/.idea/compiler.xml
+/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+/target/lib/error_prone_annotations-2.11.0.jar
+/target/lib/failureaccess-1.0.1.jar
+/target/lib/guava-31.1-jre.jar
+/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+/target/lib/j2objc-annotations-1.3.jar
+/.idea/jarRepositories.xml
+/target/lib/jsr305-3.0.2.jar
+/target/lib/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar
+/.idea/misc.xml
+/target/maven-archiver/pom.properties
+/target/simple-maven-project-1.0-SNAPSHOT.jar
+/.idea/vcs.xml
